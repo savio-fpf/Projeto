@@ -7,3 +7,12 @@ Insira seu nome abaixo:
 #Gill
 #Thiago Silva
 #Isabele
+#Luan
+#giulie
+#Márcio Jean
+#João
+#AnDrE
+#Gustavo
+#Guilherme
+#Joao_Sampaio
+
