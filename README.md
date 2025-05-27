@@ -7,3 +7,5 @@ Insira seu nome abaixo:
 #Gill
 #Thiago Silva
 #Luan
+#giulie
+#Márcio Jean
