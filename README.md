@@ -6,9 +6,13 @@ Insira seu nome abaixo:
 #Marcelo
 #Gill
 #Thiago Silva
+<<<<<<< HEAD
 #João
 #giulie
 #Márcio Jean
 #Gustavo
 #Guilherme
 #Joao_Sampaio
+=======
+#José Roosevelt
+>>>>>>> branch_jose
