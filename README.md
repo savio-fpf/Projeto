@@ -7,3 +7,8 @@ Insira seu nome abaixo:
 #Gill
 #Thiago Silva
 #João
+#giulie
+#Márcio Jean
+#Gustavo
+#Guilherme
+#Joao_Sampaio
