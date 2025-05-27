@@ -9,3 +9,8 @@ Insira seu nome abaixo:
 #Luan
 #giulie
 #Márcio Jean
+#João
+#AnDrE
+#Gustavo
+#Guilherme
+#Joao_Sampaio
