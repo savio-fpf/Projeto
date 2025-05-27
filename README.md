@@ -6,3 +6,11 @@ Insira seu nome abaixo:
 #Marcelo
 #Gill
 #Thiago Silva
+#Luan
+#giulie
+#Márcio Jean
+#João
+#AnDrE
+#Gustavo
+#Guilherme
+#Joao_Sampaio
