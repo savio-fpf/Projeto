@@ -2,10 +2,13 @@
 Projeto para o curso de versionamento de código
 Insira seu nome abaixo:
 
+#GeovanaV
 #Sávio
 #Marcelo
 #Gill
 #Thiago Silva
+#João
+#Thiago, O Silva
 #Isabele
 #Luan
 #giulie
@@ -16,6 +19,19 @@ Insira seu nome abaixo:
 #Guilherme
 #Marcelo
 #Joao_Sampaio
+#Thales
+#Thaless
+#José Roosevelt
 #gillnovamente
-#ellen
+#antonio
+#Hamilton
+#Yasmin
+#Vinicius
+#Lais
+#Emilly
+#valeria
+#Lais
+#Ellen
+
+
 
