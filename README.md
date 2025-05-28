@@ -6,6 +6,8 @@ Insira seu nome abaixo:
 #Marcelo
 #Gill
 #Thiago Silva
+#João
+#Thiago, O Silva
 #Isabele
 #Luan
 #giulie
@@ -18,3 +20,5 @@ Insira seu nome abaixo:
 #Joao_Sampaio
 #Thales
 #Thaless
+#José Roosevelt
+#gillnovamente
