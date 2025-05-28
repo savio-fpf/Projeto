@@ -3,3 +3,21 @@ Projeto para o curso de versionamento de código
 Insira seu nome abaixo:
 
 #Sávio
+#Marcelo
+#Gill
+#Thiago Silva
+#João
+#Thiago, O Silva
+#Isabele
+#Luan
+#giulie
+#Márcio Jean
+#João
+#AnDrE
+#Gustavo
+#Guilherme
+#Marcelo
+#Joao_Sampaio
+#José Roosevelt
+#gillnovamente
+#Gabriel
