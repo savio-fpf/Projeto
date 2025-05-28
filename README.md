@@ -2,6 +2,7 @@
 Projeto para o curso de versionamento de código
 Insira seu nome abaixo:
 
+#GeovanaV
 #Sávio
 #Marcelo
 #Gill
@@ -24,6 +25,6 @@ Insira seu nome abaixo:
 #gillnovamente
 #antonio
 #Hamilton
-#Yasmim
+#Yasmin
 #Vinicius
 
