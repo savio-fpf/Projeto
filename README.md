@@ -27,5 +27,7 @@ Insira seu nome abaixo:
 #Hamilton
 #Yasmin
 #Vinicius
+#Lais
+#Emilly
 #valeria
 #Lais
