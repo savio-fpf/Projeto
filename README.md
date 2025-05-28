@@ -20,4 +20,8 @@ Insira seu nome abaixo:
 #Joao_Sampaio
 #José Roosevelt
 #gillnovamente
-#Gabriel
+#antonio Gabriel
+#Thales
+#Thaless
+#José Roosevelt
+#gillnovamente
