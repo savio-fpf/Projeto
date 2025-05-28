@@ -18,6 +18,9 @@ Insira seu nome abaixo:
 #Guilherme
 #Marcelo
 #Joao_Sampaio
+#Thales
+#Thaless
 #José Roosevelt
 #gillnovamente
 #antonio
+#Hamilton
